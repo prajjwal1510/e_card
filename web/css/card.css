@@ -1,0 +1,75 @@
+.content{
+    width: 400px;
+    height: 500px;
+    background-color: rgb(182, 216, 222);
+    margin: 5% auto;
+}
+
+.headerId {
+    background-color: rgb(229, 102, 46);
+    height: 6%;
+    width: 100%;
+    margin-top: -5%;
+}
+
+td.signature2 {
+    text-align: right;
+}
+
+table {
+    margin-left: 5%;
+}
+
+h1.subTitle {
+    /* margin-left: 83px; */
+    font-size: 116%;
+    text-align: center;
+    padding: 2%;
+}
+
+p.phone {
+    text-align: center;
+    font-family: cursive;
+}
+.footerId{
+    background-color: #0A2F0A;
+    color: white;
+    padding: 1%;
+    height: 8%;
+    margin-top: 14%;
+}
+img.subTitle2 {
+    margin-left: 37%;
+    width: 24%;
+}
+
+p.validity {
+    text-align: center;
+    font-size: 107%;
+    margin-top: -8%;
+}
+
+p.program {
+    text-align: center;
+    font-size: 107%;
+    margin-top: -3%;
+}
+
+div.logoId img{
+    width: 100%;
+}
+h2.subTitle1 {
+    text-align: center;
+    font-size: 100%;
+}
+
+h2.personName {
+    text-align: center;
+    font-size: 127%;
+}
+
+p.personAddress {
+    text-align: center;
+    font-size: 120%;
+    margin-top: -33px;
+}

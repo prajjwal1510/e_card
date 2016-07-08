@@ -1,0 +1,46 @@
+
+.header{
+    width: 100%;
+   /* background-color: azure;*/
+    height: 17%;
+    clear: both;
+}
+
+.container{
+    width: 100%;
+    height: 70%;
+}
+
+.logo {
+    /* background-color: aliceblue; */
+    width: 21%;
+    float: left;
+}
+
+.headerTitle {
+    font-size: 14px;
+    width: 60%;
+    /* background-color: aliceblue; */
+    float: left;
+    padding: 9px;
+    margin-left: 101px;
+    font-family: inherit;
+    color: rgb(16, 83, 153);
+}
+
+.profile{
+    height: 74px;
+    width: 74px;
+}
+
+td,tr{
+    font-family: cursive;
+}
+
+.personDetail{
+    /* background-color: aquamarine; */
+    margin-left: 235px;
+    width: 802px;
+    margin-top: 3px;
+    text-align: left;
+}
